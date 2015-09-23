@@ -1,0 +1,4 @@
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBinding\bin\Release\LocSDKBinding.dll
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBinding\bin\Release\LocSDKBinding.pdb
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBinding\obj\Release\LocSDKBinding.dll
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBinding\obj\Release\LocSDKBinding.pdb

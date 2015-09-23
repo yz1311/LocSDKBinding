@@ -1,0 +1,7 @@
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBindingDemo\obj\Debug\assemblies\LocSDKBindingDemo.dll
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBindingDemo\obj\Debug\assemblies\LocSDKBinding.dll
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBindingDemo\obj\Debug\assemblies\Mono.Android.dll
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBindingDemo\obj\Debug\assemblies\mscorlib.dll
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBindingDemo\obj\Debug\assemblies\System.Core.dll
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBindingDemo\obj\Debug\assemblies\System.dll
+D:\Projects\NET_Projects\LocSDKBinding\LocSDKBindingDemo\obj\Debug\assemblies\System.Xml.dll

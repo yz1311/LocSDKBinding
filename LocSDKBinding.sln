@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduLocSDKBinding", "LocSDKBinding\BaiduLocSDKBinding.csproj", "{EE6E0189-6673-4F5A-AB6B-D3B1C5367347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocSDKBindingDemo", "LocSDKBindingDemo\LocSDKBindingDemo.csproj", "{A1F9D8F7-CD0A-4465-912E-C92B555C2C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F9D8F7-CD0A-4465-912E-C92B555C2C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F9D8F7-CD0A-4465-912E-C92B555C2C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F9D8F7-CD0A-4465-912E-C92B555C2C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F9D8F7-CD0A-4465-912E-C92B555C2C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6E0189-6673-4F5A-AB6B-D3B1C5367347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6E0189-6673-4F5A-AB6B-D3B1C5367347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6E0189-6673-4F5A-AB6B-D3B1C5367347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6E0189-6673-4F5A-AB6B-D3B1C5367347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+com.baidu.location.LocationClientOption$LocationMode:Com.Baidu.Location:LocationClientOption.LocationMode
+com.baidu.mapapi.utils.CoordinateConverter$CoordType:Com.Baidu.Mapapi.Utils:CoordinateConverter.CoordType
+com.baidu.mapapi.utils.route.RouteParaOption$EBusStrategyType:Com.Baidu.Mapapi.Utils.Route:RouteParaOption.EBusStrategyType
